@@ -1,5 +1,5 @@
 # Arch-3
-3rd lab for Computer Arch
+#### 3rd Project for Computer Architecture class utilizing McPAT running on the data of the previous project running Gem5 in order to find the optimal configuration for each benchmark.
 
 ## Part 1
 
